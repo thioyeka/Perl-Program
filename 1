@@ -1,0 +1,31 @@
+#usr/bin/perl
+
+open (FILE, "<Replace.txt");
+my @Abdou = <FILE>;
+
+
+foreach $a(@Abdou)
+	{
+if ($a == 1)
+	{
+$a =~s/1\s*/ one /sg;
+	}
+	
+elsif ($a == one)
+	{
+$a =~s/one\s*/ 1 /gs;
+	}	
+
+
+if ($a == 2)
+        {
+$a =~s/2\s*/ two /sg;
+        }
+elsif ($a == two)
+        {
+$a =~s/two\s*/ 2 /sg;
+        }
+        }
+
+
+print"@Abdou\n";

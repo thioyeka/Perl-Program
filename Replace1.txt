@@ -1,0 +1,177 @@
+drastea XV Jupiter  one  two  nine  zero  zero  zero   zero . three  zero   zero . zero  zero   zero . zero  zero  Jewitt  one  nine  seven  nine 
+
+ Amalthea V Jupiter  one  eight  one  zero  zero  zero   zero . five  zero   zero . foure  zero   zero . zero  zero  Barnard  one  eight  nine  two 
+
+ Ananke XII Jupiter  two  one  two  zero  zero  zero  zero  zero  - six  three  one   one  foure  seven . zero  zero   zero . one  seven  Nicholson  one  nine  five  one 
+
+ Ariel I Uranus  one  nine  one  zero  zero  zero   two . five  two   zero . zero  zero   zero . zero  zero  Lassell  one  eight  five  one 
+
+ Atlas XV Saturn  one  three  eight  zero  zero  zero   zero . six  zero   zero . zero  zero   zero . zero  zero  Terrile  one  nine  eight  zero 
+
+ Belinda XIV Uranus  seven  five  zero  zero  zero   zero . six  two   zero . zero  three   zero . zero  zero  Voyager two   one  nine  eight  six 
+
+ Bianca VIII Uranus  five  nine  zero  zero  zero   zero . foure  three   zero . one  six   zero . zero  zero  Voyager two   one  nine  eight  six 
+
+ Caliban XVI Uranus  seven  one  six  nine  zero  zero  zero  - five  eight  zero   one  foure  zero .  zero . zero  eight  Gladman  one  nine  nine  seven 
+
+ Callirrhoe XVII Jupiter  two  foure  one  zero  zero  zero  zero  zero  ? ? ? Sheppard  two  zero  zero  zero 
+
+ Callisto IV Jupiter  one  eight  eight  three  zero  zero  zero   one  six . six  nine   zero . two  eight   zero . zero  one  Galileo  one  six  one  zero 
+
+ Calypso XIV Saturn  two  nine  five  zero  zero  zero   one . eight  nine   zero . zero  zero   zero . zero  zero  Pascu  one  nine  eight  zero 
+
+ Carme XI Jupiter  two  two  six  zero  zero  zero  zero  zero  - six  nine  two   one  six  three . zero  zero   zero . two  one  Nicholson  one  nine  three  eight 
+
+ Chaldene XXI Jupiter  two  three  three  eight  seven  zero  zero  zero   - seven  three  three . seven   one  six  five . two   zero . two  three  eight  Sheppard  two  zero  zero  zero 
+
+ Charon I Pluto  two  zero  zero  zero  zero   six . three  nine   nine  eight . eight  zero   zero . zero  zero  Christy  one  nine  seven  eight 
+
+ Cordelia VI Uranus  five  zero  zero  zero  zero   zero . three  foure   zero . one  foure   zero . zero  zero  Voyager two   one  nine  eight  six 
+
+ Cressida IX Uranus  six  two  zero  zero  zero   zero . foure  six   zero . zero  foure   zero . zero  zero  Voyager two   one  nine  eight  six 
+
+ Deimos II Mars  two  three  zero  zero  zero   one . two  six   one . eight  zero   zero . zero  zero  Hall  one  eight  seven  seven 
+
+ Desdemona X Uranus  six  three  zero  zero  zero   zero . foure  seven   zero . one  six   zero . zero  zero  Voyager two   one  nine  eight  six 
+
+ Despina V Neptune  five  three  zero  zero  zero   zero . three  three   zero . zero  zero   zero . zero  zero  Voyager two   one  nine  eight  nine 
+
+ Dione IV Saturn  three  seven  seven  zero  zero  zero   two . seven  foure   zero . zero  two   zero . zero  zero  Cassini  one  six  eight  foure 
+
+ Earth III Sun  one  foure  nine  six  zero  zero  zero  zero  zero   three  six  five . two  six   zero . zero  zero   zero . zero  two  - -
+
+ Elara VII Jupiter  one  one  seven  three  seven  zero  zero  zero   two  five  nine . six  five   two  eight . zero  zero   zero . two  one  Perrine  one  nine  zero  five 
+
+ Enceladus II Saturn  two  three  eight  zero  zero  zero   one . three  seven   zero . zero  two   zero . zero  zero  Herschel  one  seven  eight  nine 
+
+ Epimetheus XI Saturn  one  five  one  zero  zero  zero   zero . six  nine   zero . three  foure   zero . zero  one  Walker  one  nine  eight  zero 
+
+ Erinome XXV Jupiter  two  three  two  seven  nine  zero  zero  zero   seven  two  eight   one  six  foure . nine   zero . two  six  six  Sheppard  two  zero  zero  zero 
+
+ Europa II Jupiter  six  seven  one  zero  zero  zero   three . five  five   zero . foure  seven   zero . zero  one  Galileo  one  six  one  zero 
+
+ Galatea VI Neptune  six  two  zero  zero  zero   zero . foure  three   zero . zero  zero   zero . zero  zero  Voyager two   one  nine  eight  nine 
+
+ Ganymede III Jupiter  one  zero  seven  zero  zero  zero  zero   seven . one  five   zero . one  nine   zero . zero  zero  Galileo  one  six  one  zero 
+
+ Harpalyke XXII Jupiter  two  one  one  three  two  zero  zero  zero   six  two  three . three   one  foure  eight . six   zero . two  two  six  Sheppard  two  zero  zero  zero 
+
+ Helene XII Saturn  three  seven  seven  zero  zero  zero   two . seven  foure   zero . two  zero   zero . zero  one  Laques  one  nine  eight  zero 
+
+ Himalia VI Jupiter  one  one  foure  eight  zero  zero  zero  zero   two  five  zero . five  seven   two  eight . zero  zero   zero . one  six  Perrine  one  nine  zero  foure 
+
+ Hyperion VII Saturn  one  foure  eight  one  zero  zero  zero   two  one . two  eight   zero . foure  three   zero . one  zero  Bond  one  eight  foure  eight 
+
+ Iapetus VIII Saturn  three  five  six  one  zero  zero  zero   seven  nine . three  three   one  foure . seven  two   zero . zero  three  Cassini  one  six  seven  one 
+
+ Io I Jupiter  foure  two  two  zero  zero  zero   one . seven  seven   zero . zero  foure   zero . zero  zero  Galileo  one  six  one  zero 
+
+ Iocaste XXIV Jupiter  two  zero  two  one  six  zero  zero  zero  ? ? ? Sheppard  two  zero  zero  zero 
+
+ Isonoe XXVI Jupiter  two  three  zero  seven  eight  zero  zero  zero  ? ? ? Sheppard  two  zero  zero  zero 
+
+ Janus X Saturn  one  five  one  zero  zero  zero   zero . six  nine   zero . one  foure   zero . zero  one  Dollfus  one  nine  six  six 
+
+ Juliet XI Uranus  six  foure  zero  zero  zero   zero . foure  nine   zero . zero  six   zero . zero  zero  Voyager two   one  nine  eight  six 
+
+ Jupiter V Sun  seven  seven  eight  three  three  zero  zero  zero  zero   foure  three  three  two . seven  one   one . three  one   zero . zero  five  - -
+
+ Kalyke XXIII Jupiter  two  three  seven  foure  five  zero  zero  zero  ? ? ? Sheppard  two  zero  zero  zero 
+
+ Larissa VII Neptune  seven  foure  zero  zero  zero   zero . five  five   zero . zero  zero   zero . zero  zero  Reitsema  one  nine  eight  nine 
+
+ Leda XIII Jupiter  one  one  zero  nine  foure  zero  zero  zero   two  three  eight . seven  two   two  seven . zero  zero   zero . one  five  Kowal  one  nine  seven  foure 
+
+ Lysithea X Jupiter  one  one  seven  two  zero  zero  zero  zero   two  five  nine . two  two   two  nine . zero  zero   zero . one  one  Nicholson  one  nine  three  eight 
+
+ Mars IV Sun  two  two  seven  nine  foure  zero  zero  zero  zero   six  eight  six . nine  eight   one . eight  five   zero . zero  nine  - -
+
+ Megaclite XIX Jupiter  two  three  nine  one  one  zero  zero  zero  ? ? ? Sheppard  two  zero  zero  zero 
+
+ Mercury I Sun  five  seven  nine  one  zero  zero  zero  zero   eight  seven . nine  seven   seven . zero  zero   zero . two  one  - -
+
+ Metis XVI Jupiter  one  two  eight  zero  zero  zero   zero . two  nine   zero . zero  zero   zero . zero  zero  Synnott  one  nine  seven  nine 
+
+ Mimas I Saturn  one  eight  six  zero  zero  zero   zero . nine  foure   one . five  three   zero . zero  two  Herschel  one  seven  eight  nine 
+
+ Miranda V Uranus  one  three  zero  zero  zero  zero   one . foure  one   foure . two  two   zero . zero  zero  Kuiper  one  nine  foure  eight 
+
+ Moon I Earth  three  eight  foure  zero  zero  zero   two  seven . three  two   five . one  foure   zero . zero  five  - -
+
+ Naiad III Neptune  foure  eight  zero  zero  zero   zero . two  nine   zero . zero  zero   zero . zero  zero  Voyager two   one  nine  eight  nine 
+
+ Neptune VIII Sun  foure  five  zero  foure  three  zero  zero  zero  zero  zero   six  zero  one  nine  zero . zero  zero   one . seven  seven   zero . zero  one  Adams  one  eight  foure  six 
+
+ Nereid II Neptune  five  five  one  three  zero  zero  zero   three  six  zero . one  three   two  nine . zero  zero   zero . seven  five  Kuiper  one  nine  foure  nine 
+
+ Oberon IV Uranus  five  eight  three  zero  zero  zero   one  three . foure  six   zero . zero  zero   zero . zero  zero  Herschel  one  seven  eight  seven 
+
+ Ophelia VII Uranus  five  foure  zero  zero  zero   zero . three  eight   zero . zero  nine   zero . zero  zero  Voyager two   one  nine  eight  six 
+
+ Pan XVIII Saturn  one  three  foure  zero  zero  zero   zero . five  eight   zero . zero  zero   zero . zero  zero  Showalter  one  nine  nine  zero 
+
+ Pandora XVII Saturn  one  foure  two  zero  zero  zero   zero . six  three   zero . zero  zero   zero . zero  zero  Collins  one  nine  eight  zero 
+
+ Pasiphae VIII Jupiter  two  three  five  zero  zero  zero  zero  zero  - seven  three  five   one  foure  seven . zero  zero   zero . three  eight  Melotte  one  nine  zero  eight 
+
+ Phobos I Mars  nine  zero  zero  zero   zero . three  two   one . zero  zero   zero . zero  two  Hall  one  eight  seven  seven 
+
+ Phoebe IX Saturn  one  two  nine  five  two  zero  zero  zero  - five  five  zero . foure  eight   one  seven  five . three  zero   zero . one  six  Pickering  one  eight  nine  eight 
+
+ Pluto IX Sun  five  nine  one  three  five  two  zero  zero  zero  zero   nine  zero  five  five  zero   one  seven . one  five   zero . two  five  Tombaugh  one  nine  three  zero 
+
+ Portia XII Uranus  six  six  zero  zero  zero   zero . five  one   zero . zero  nine   zero . zero  zero  Voyager two   one  nine  eight  six 
+
+ Praxidike XXVII Jupiter  two  zero  nine  six  foure  zero  zero  zero  ? ? ? Sheppard  two  zero  zero  zero 
+
+ Prometheus XVI Saturn  one  three  nine  zero  zero  zero   zero . six  one   zero . zero  zero   zero . zero  zero  Collins  one  nine  eight  zero 
+
+ Prospero XVIII Uranus  one  six  five  six  eight  zero  zero  zero  - two  zero  one  nine   one  five  two .  zero . foure  foure  Holman  one  nine  nine  nine 
+
+ Proteus VIII Neptune  one  one  eight  zero  zero  zero   one . one  two   zero . zero  zero   zero . zero  zero  Voyager two   one  nine  eight  nine 
+
+ Puck XV Uranus  eight  six  zero  zero  zero   zero . seven  six   zero . three  one   zero . zero  zero  Voyager two   one  nine  eight  five 
+
+ Rhea V Saturn  five  two  seven  zero  zero  zero   foure . five  two   zero . three  five   zero . zero  zero  Cassini  one  six  seven  two 
+
+ Rosalind XIII Uranus  seven  zero  zero  zero  zero   zero . five  six   zero . two  eight   zero . zero  zero  Voyager two   one  nine  eight  six 
+
+ Saturn VI Sun  one  foure  two  nine  foure  zero  zero  zero  zero  zero   one  zero  seven  five  nine . five  zero   two . foure  nine   zero . zero  six  - -
+
+ Setebos XIX Uranus  one  seven  six  eight  one  zero  zero  zero  - two  two  three  nine   one  five  eight .  zero . five  seven  Kavelaars  one  nine  nine  nine 
+
+ Sinope IX Jupiter  two  three  seven  zero  zero  zero  zero  zero  - seven  five  eight   one  five  three . zero  zero   zero . two  eight  Nicholson  one  nine  one  foure 
+
+ Stephano XX Uranus  seven  nine  foure  eight  zero  zero  zero  - six  seven  foure   one  foure  three .  zero . two  foure  Gladman  one  nine  nine  nine 
+
+ Sun - - - - - - - -
+
+ Sycorax XVII Uranus  one  two  two  one  three  zero  zero  zero  - one  two  eight  nine   one  five  three .  zero . five  one  Nicholson  one  nine  nine  seven 
+
+ Taygete XX Jupiter  two  three  three  one  two  zero  zero  zero  ? ? ? Sheppard  two  zero  zero  zero 
+
+ Telesto XIII Saturn  two  nine  five  zero  zero  zero   one . eight  nine   zero . zero  zero   zero . zero  zero  Smith  one  nine  eight  zero 
+
+ Tethys III Saturn  two  nine  five  zero  zero  zero   one . eight  nine   one . zero  nine   zero . zero  zero  Cassini  one  six  eight  foure 
+
+ Thalassa IV Neptune  five  zero  zero  zero  zero   zero . three  one   foure . five  zero   zero . zero  zero  Voyager two   one  nine  eight  nine 
+
+ Thebe XIV Jupiter  two  two  two  zero  zero  zero   zero . six  seven   zero . eight  zero   zero . zero  two  Synnott  one  nine  seven  nine 
+
+ Themisto XVIII Jupiter  seven  five  zero  seven  zero  zero  zero  ? ? ? Sheppard  two  zero  zero  zero 
+
+ Titan VI Saturn  one  two  two  two  zero  zero  zero   one  five . nine  five   zero . three  three   zero . zero  three  Huygens  one  six  five  five 
+
+ Titania III Uranus  foure  three  six  zero  zero  zero   eight . seven  one   zero . zero  zero   zero . zero  zero  Herschel  one  seven  eight  seven 
+
+ Trinculo XXI Uranus  eight  five  seven  eight  zero  zero  zero  - seven  five  nine   one  six  seven . zero   zero . two  zero  eight  Gladman  two  zero  zero  one 
+
+ Triton I Neptune  three  five  five  zero  zero  zero  - five . eight  eight   one  five  seven . zero  zero   zero . zero  zero  Lassell  one  eight  foure  six 
+
+ Umbriel II Uranus  two  six  six  zero  zero  zero   foure . one  foure   zero . zero  zero   zero . zero  zero  Lassell  one  eight  five  one 
+
+ Uranus VII Sun  two  eight  seven  zero  nine  nine  zero  zero  zero  zero   three  zero  six  eight  five . zero  zero   zero . seven  seven   zero . zero  five  Herschel  one  seven  eight  one 
+
+ Venus II Sun  one  zero  eight  two  zero  zero  zero  zero  zero   two  two  foure . seven  zero   three . three  nine   zero . zero  one  - -
+
+ 

@@ -1,0 +1,69 @@
+while(<>){
+	push(@a, $_);
+	}
+
+#Part 1
+#1. Print all records that do not list a discoverer in the eighth field.
+print "Records without a discoverer:\n\n";	
+foreach $element(@a){
+	#print "$element" if $element=~m/((.)+\s){7}(-)/i;
+	}
+	
+#2. Print every record omitting the second field.
+print "\n\nEvery Record omitting the second field:\n\n";
+foreach $element(@a){
+	#print "$element" if $element=~s/\s(I|V|X|(-))+\s/ /;
+	}
+
+#3. Print the records for satellites that have negative orbital periods.
+print "\n\nEvery Record with a negative orbital period:\n\n";
+foreach $element(@a){
+	#print "$element" if $element=~m/\s(-)\d+/;
+	}	
+	
+#4. Print the data for the objects discovered by the Voyager2 space probe.
+print "\n\nEvery Record discovered by the Voyager2 space probe:\n\n";
+foreach $element(@a){
+	#print "$element" if $element=~m/Voyager2/i;
+	}
+	
+#5. Print each record with the orbital period given in seconds rather than days.
+print "\n\nEvery Record with the orbital period in seconds:\n\n";
+foreach $element(@a){
+	@b = split(" ", $element);
+	@b[4] = @b[4]*24*60*60;
+	print "@b\n";
+}
+
+
+
+
+
+
+
+s/1/ one /igxsm ||      s/one/ 1 /igmxs;
+s/2/ two /ig||          s/two/ 2 /ig;
+s/3/ three /ig||        s/three/ 3 /ig;
+s/4/ foure /ig||         s/foure/ 4 /ig;
+s/5/ five /ig||         s/five/ 5 /ig;
+s/6/ six /ig||          s/six/ 6 /ig;
+s/7/ seven /ig||        s/seven/ 7 /ig;
+s/8/ eight /ig||        s/eight/ 8 /ig;
+s/9/ nine /ig||         s/nine/ 9 /ig;
+s/0/ zero /ig||         s/zero/ 0 /ig;
+
+
+
+s/1/ one /igxsm ||      s/one/ 1 /igmxs;
+s/2/ two /ig||          s/two/ 2 /ig;
+s/3/ three /ig||        s/three/ 3 /ig;
+s/4/ foure /ig||         s/foure/ 4 /ig;
+s/5/ five /ig||         s/five/ 5 /ig;
+s/6/ six /ig||          s/six/ 6 /ig;
+s/7/ seven /ig||        s/seven/ 7 /ig;
+s/8/ eight /ig||        s/eight/ 8 /ig;
+s/9/ nine /ig||         s/nine/ 9 /ig;
+s/0/ zero /ig||         s/zero/ 0 /ig;
+
+
+

@@ -1,0 +1,13 @@
+#!/usr/bin/perl    
+#$target="- -";
+#open(INPUT,"<Solar.txt");
+#while (<INPUT>) 
+#{
+#if (/$target/) 
+#{
+#print "Found $target on line $. ";
+#}
+
+#}
+#close(INPUT);
+
